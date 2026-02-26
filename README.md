@@ -26,9 +26,6 @@ https://github.com/user-attachments/assets/4061ab29-ea58-48ba-9406-a56fe789bf56
 - **.gitattributes**: Git configuration for line endings.
 - **README.md**: Project documentation.
 
-Sni180: Write a professional readme for this whole project
-
-Workspace: Collecting workspace information```markdown
 # Kimberley Explorer
 
 **Kimberley Explorer** is a responsive, multi-page website designed to showcase the rich history, attractions, and unique culture of Kimberley, South Africa. This project is ideal for tourists, students, and anyone interested in exploring the "Diamond City" and its surroundings.
